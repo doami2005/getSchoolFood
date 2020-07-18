@@ -1,6 +1,7 @@
 /*
 
-예시 ) getSchoolFood("목동중");
+예시 )
+getSchoolFood("목동중");
 
 결과 )
 
